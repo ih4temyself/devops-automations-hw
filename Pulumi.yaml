@@ -1,0 +1,11 @@
+name: aws-hw
+description: "4"
+runtime:
+  name: python
+  options:
+    toolchain: pip
+    virtualenv: venv
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: https://github.com/pulumi/templates.git/aws-python

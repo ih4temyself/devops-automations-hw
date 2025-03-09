@@ -1,0 +1,13 @@
+encryptionsalt: v1:Hy3DGSNvf+g=:v1:KeVz9DACm/tCVkug:fa9Gx/7FtMr/oIoI0Lu9XC9f7VpApQ==
+config:
+  aws:region: eu-central-1
+  aws-hw:teacher-pbkey:
+    secure: v1:kqFhlPbcEz5iDNMH:jEbvv1hNKLOMlXapUpdXLlVkPlZ7JXWEOBieTtRw/dfKAG7QExd6wOKFXUpI6otdhUTbHp/wy9d8iGS3QvzmsrU3ginIJYM5nxM8crMe+raY4wqFrjLmciPqv9IpcPoMkjGx5etcOusyK309xnnDmZnIT5D6osqlNw==
+  aws-hw:my-pbkey:
+    secure: v1:UL36GiU3001NhXYO:ndumrSTmy9K92EmQn3xxcYEyKmdAK+10VhrByoL9iyGyQOwcbf/g+rV215adbdlGVc7pSPv3rHadSHcm5jQAD3k0s133SSlIpFbqjXcXHGEy5735u89NcdpiCevg+m9azzaGdyi6HgR7JBc0PY0BSP+Kn6EfJ2j5pKd/Xdb/hpzZzNYHWsoQ36qcqR2Skr5GMpd82uAg2Dn1RBg+DaG9AaoTTqbafox/OnPhksfjwi8xXbJCZc1ehCKz5LAnIJH7ztZqltTFBkmNoMxrUKM8IfWHktr2jmB273EVXS3SFFAWUBa3/fyGk0lRDSLpX36lXXFUmPxHFqot8beXqhwup1JnSSGYMt0OSQojJEHocEFZPmBdB8HJmyKiunWHADwJCYCuBN6EmekBO3C0oRt7t/+sRCEpRCaqfOA/Wzt66Nj6/nacs7fYn3SSta82uj/H4PWnwKcP9FhJBmVUFr/YG1+dNqgm5T1qBFPI/Jn10iBI0IxU3Nf6EYQM8oSKIW0O8AZbUqhZr6pY+a3/L5yDi1vfwCJ4hhQgmEnZs4WsGOYeNmsZ0A5l3GyR/YPDJqFCOIp83U73YXvDHNlBzn25HhoWSSV8lJPgMgGnZBpRVUhlnznBTcIMSkkd142Gchi3E8LlWHWvzlwVzUglu1w09Iz6zkBrhU7Pkrs4sFtbqxpy2vY588x3dsSrW36Q/N6bS+XpSLmSq8ExalHxCdY+8vCwyjeTO6PVfzSpWIQSGQ+O4M5lglcujM+Z2Yi6NtPAs9q7ePEZ94UIEigK8Otc+whXUOM3
+  aws-hw:awsRegion: eu-central-1
+  aws-hw:keyPairName:
+    secure: v1:4MsyruOWpDRXujxa:kWxX8C3cH1j4zpMCIXU5k7C4OKHS/X3kLxBI
+  aws-hw:instance-type: t2.micro
+  aws-hw:aws_region: eu-central-1
+  aws-hw:default_user: ubuntu
